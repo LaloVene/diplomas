@@ -1,8 +1,23 @@
 # Diplomas
 Diplomas that I have gotten
 
+## Education
+
 ### React Bootcamp
 ![image](https://user-images.githubusercontent.com/54692916/133191388-1394547c-76b7-4874-b54e-0a9f34bd9c98.png)
+
+### Best GPA 2020b
+![image](https://user-images.githubusercontent.com/54692916/133324450-3e92eada-5aff-40b9-816e-b031d9ce6fe8.png)
+
+### Best GPA 2020a
+![image](https://user-images.githubusercontent.com/54692916/133324587-03265a61-4fc2-49b6-a3f6-5c6cc205b2f7.png)
+
+
+### Technologist Degree
+![image](https://user-images.githubusercontent.com/54692916/133191508-4fd945fe-cbba-41b5-a912-744799bb9a35.png)
+
+
+## Professional Certificates
 
 ### HarvardX Data Science
 ![image](https://user-images.githubusercontent.com/54692916/133191938-fba7e0ca-734b-48ff-a3e4-878d85ea1862.png)
@@ -24,9 +39,13 @@ https://credentials.edx.org/credentials/db9ccb1ab0234c63adbb538dbc9cf462/
 ![image](https://user-images.githubusercontent.com/54692916/133295157-fe8824d7-7905-47e6-9475-79c5973ad946.png)
 https://www.coursera.org/account/accomplishments/professional-cert/9ZXKGPR53JDR
 
+
+## Hackathons
+
 ### Top 10 HackTheMountain
 ![Q8XV-GM6M-G5CA-HI24 9467](https://user-images.githubusercontent.com/54692916/133191645-7cd3e291-0cd4-4ea7-ab56-163eaad94086.png)
 https://givemycertificate.com/verify/Q8XV-GM6M-G5CA-HI24
 
-### Technologist Degree
-![image](https://user-images.githubusercontent.com/54692916/133191508-4fd945fe-cbba-41b5-a912-744799bb9a35.png)
+### IBM Behind the Code
+![image](https://user-images.githubusercontent.com/54692916/133324778-867c81d5-cb7c-4cb8-b75a-246782be68c8.png)
+
