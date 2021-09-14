@@ -49,3 +49,7 @@ https://givemycertificate.com/verify/Q8XV-GM6M-G5CA-HI24
 ### IBM Behind the Code
 ![image](https://user-images.githubusercontent.com/54692916/133324778-867c81d5-cb7c-4cb8-b75a-246782be68c8.png)
 
+### 1rst Place Engineering Expo
+![image](https://user-images.githubusercontent.com/54692916/133326720-97f0df65-594d-4686-a9b2-0ce225c58469.png)
+
+
